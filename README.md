@@ -43,7 +43,9 @@ While this is a personal portfolio, suggestions are welcome!
 For opportunities or collaborations:
 
 ✉️ [abdulrahman.abdelstar@gmail.com](abdulrahman.abdelstar@gmail.com)
+
 🔗 [LinkedIn](www.linkedin.com/in/abdulrahman-abdelstar-935213371)
+
 💻 [GitHub](https://github.com/AbdulrahmanFrontend)
 
 © 2023 Abdulrahman Abdelstar - All Rights Reserved
