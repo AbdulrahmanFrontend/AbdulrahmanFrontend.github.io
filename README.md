@@ -1,6 +1,7 @@
 # 🌟 Abdulrahman's Portfolio 
 
 [![Live Demo](https://img.shields.io/badge/View-Live_Site-brightgreen)](https://abdulrahmanfrontend.github.io/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 Welcome to my personal portfolio website showcasing my frontend development journey, projects, and skills.
 
