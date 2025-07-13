@@ -22,7 +22,7 @@ Welcome to my personal portfolio website showcasing my frontend development jour
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AbdulrahmanFrontend/portfolio.git
+git clone https://github.com/AbdulrahmanFrontend/AbdulrahmanFrontend.github.io.git
 ```
 2. Open index.html in your browser
 
